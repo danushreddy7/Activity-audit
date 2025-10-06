@@ -1,4 +1,4 @@
-# Exp Auditing Cloud Activity Using AWS CloudTrail
+# Exp-4:Auditing Cloud Activity Using AWS CloudTrail
 ## Aim
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
 ## Requirements
